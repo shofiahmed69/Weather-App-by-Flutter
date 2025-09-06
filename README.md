@@ -1,4 +1,4 @@
-# ecommerce
+# weather app
 
 A new Flutter project.
 
